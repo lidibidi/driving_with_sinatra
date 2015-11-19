@@ -1,6 +1,7 @@
 # driving_with_sinatra
 Pair Programming by building a Sinatra Server
 
+![driving with sinatra](http://img2.timeinc.net/people/i/2015/news/150316/frank-sinatra-1024.jpg "Sinatra")
 ## Instructions 
 
 - Create an app.rb, config.ru, and Gemfile
